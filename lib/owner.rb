@@ -71,8 +71,8 @@ class Owner
   end
   
   def list_pets
-    @owner.dogs
-    @owner.cats
+    self.dogs
+    self.cats
   end
     
 end
