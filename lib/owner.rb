@@ -50,4 +50,5 @@ class Owner
       dogs.owner == self
       dogs.mood = "happy"
     end
+  end
 end
